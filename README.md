@@ -1,16 +1,17 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/99b5400a-6bdc-4b72-8e3a-0d6f12a45aa0)
 
-<!--
-**pedrotitu/pedrotitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>
+    💻 Desenvolvedor Web
+  </li>
+  <li>
+    ⚛️ Java Script / NodeJS / React
+  </li>
+  <li>
+    📚 Cursando Ciência da computação e Desenvolvedor Full-Stack (RocketSeat)
+  </li>
+</ul>
